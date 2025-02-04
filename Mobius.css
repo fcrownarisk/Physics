@@ -1,0 +1,34 @@
+#include "369.html"
+@Override
+#exclude{
+  @color:abcdef
+}
+#exclude{
+  @color:bcdefa
+}
+#exclude{
+  @color:cdefab
+}
+@Override
+#exclude{
+  @color:defabc
+}
+#exclude{
+  @color:efabcd
+}
+#exclude{
+  @color:fabcde
+}
+@Override
+#exclude
+{
+  @color:aabbcc
+}
+#exclude
+{
+  @color:ddeeff
+}
+#exclude
+{
+  @color:fedcba
+}
